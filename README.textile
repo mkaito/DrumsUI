@@ -1,0 +1,24 @@
+h1. DrumsUI Remix
+
+This is basically a fork of the original DrumsUI found on eq2interface.com. This repo keeps the modifications to that project I've done to cover my own needs and tastes. All functionality is kept and the overall style is the same.
+
+h2. Chat Window
+
+I could never find a chat window that suited my taste. All I ever wanted was a box with text in it, and NOTHING else. Extra stuff, such as scroll bar and default chat should be hidden, but accessible. Since I tend to use several chat windows, being able to hide the input box per-window would be a nice goodie.
+
+h3. Differences
+
+* Controls moved to right side
+* Controls hidden and show on hover, individually.
+* Added an AFK checkbox (tinted red), and a visual cue while AFK.
+* Setting the window to "Frame only" or "Frame and Titlebar" will hide the input box and resize the text display area accordingly. Default chat button is also hidden.
+
+h2. Maintained Window
+
+I found the icons too big and cumbersome. I've made them smaller and added some padding.
+
+h2. Raid & Group Windows
+
+The per-group border in the raid window always annoyed me. It's invisible now, with no option to fade it in. I should probably link it to the window frame.
+
+Health bars in both windows have been made taller by 2px. This is quite subjective, since I'm a templar, but it makes it much easier to have a clear overview of health status across the raid/group.

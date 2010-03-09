@@ -22,3 +22,9 @@ h2. Raid & Group Windows
 The per-group border in the raid window always annoyed me. It's invisible now, with no option to fade it in. I should probably link it to the window frame.
 
 Health bars in both windows have been made taller by 2px. This is quite subjective, since I'm a templar, but it makes it much easier to have a clear overview of health status across the raid/group.
+
+The group window now shows concentration slots above the self entry, for easier tracking. Names now use the "Small" style, and are thus smaller.
+
+h2. Player Window
+
+Concentration slot style and position has been altered. Effect icons have been resized and repositioned slightly. Some status icons are now in the lower right corner. The window overall is much smaller. Also, health and power numbers were moved on top of the corresponding progress bars.
